@@ -3,7 +3,7 @@
   <img src="https://github.com/ElenixOS/ElenixOS/blob/main/assets/logo-dark.png#gh-dark-mode-only" />
 </div>
 
----
+<br>
 
 ElenixOS aims to build an Android-like application ecosystem for smartwatches and embedded wearable devices.
 
